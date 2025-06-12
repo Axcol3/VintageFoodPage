@@ -17,7 +17,7 @@
   
 ### Скриншоты:
 
-![Для компьютеров](Vintage_Food/images/Compiters.png)
+![Для компьютеров](Vintage_Food/images/Computers.png)
 ![Для планшетов](Vintage_Food/images/tablets.png)
 ![Для телефонов](Vintage_Food/images/phones.png)
 
