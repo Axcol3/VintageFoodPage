@@ -16,18 +16,14 @@
 
   
 
-### Скриншоты
-
-<p align="center">
- ### 📸 Скриншоты
+### 📸 Скриншоты
 
 <div align="left">
-  <img src="Vintage_Food/images/Computers.png" width="200" style="margin-right: 10px;" alt="Компьютеры" />
-  <img src="Vintage_Food/images/tablets.png" width="200" style="margin-right: 10px;" alt="Планшеты" />
-  <img src="Vintage_Food/images/phones.png" width="200" alt="Телефоны" />
+  <img src="Vintage_Food/images/Computers.png" width="200" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;" />
+  <img src="Vintage_Food/images/tablets.png" width="200" alt="Планшеты" style="vertical-align: top; margin-right: 10px;" />
+  <img src="Vintage_Food/images/phones.png" width="200" alt="Телефоны" style="vertical-align: top;" />
 </div>
 
-</p>
 
 
 ## Как запустить
