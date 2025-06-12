@@ -15,11 +15,20 @@
   -Использование Flexbox для верстки.
 
   
-### Скриншоты:
 
-![Для компьютеров](Vintage_Food/images/Computers.png)
-![Для планшетов](Vintage_Food/images/tablets.png)
-![Для телефонов](Vintage_Food/images/phones.png)
+### Скриншоты
+
+<p align="center">
+  Для компьютеров:
+  <img src="Vintage_Food/images/Compiters.png" width="400"/>
+  
+  Для планшетов:
+  <img src="Vintage_Food/images/tablets.png" width="300"/>
+  
+  Для телефонов:
+  <img src="Vintage_Food/images/phones.png" width="200"/>
+</p>
+
 
 ## Как запустить
 
