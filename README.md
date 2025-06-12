@@ -20,8 +20,8 @@
 
 <div align="left">
 
-  <img src="Vintage_Food/images/phones.png" width="300" alt="Телефоны" style="vertical-align: top; margin-right: 10px;" />
-    <img src="Vintage_Food/images/Computers.png" width="400" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;"/>
+  <img src="Vintage_Food/images/phones.png" width="200" alt="Телефоны" style="vertical-align: top; margin-right: 10px;" />
+    <img src="Vintage_Food/images/Computers.png" width="600" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;"/>
 </div>
 
 
