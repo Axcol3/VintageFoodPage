@@ -19,13 +19,13 @@
 ### Скриншоты
 
 <p align="center">
-  Для компьютеров:
-  <img src="Vintage_Food/images/Compiters.png" width="400"/>
+  <h2>Для компьютеров:</h2>
+  <img src="Vintage_Food/images/Computers.png" width="400"/>
   
-  Для планшетов:
+ <h2> Для планшетов:</h2>
   <img src="Vintage_Food/images/tablets.png" width="300"/>
   
-  Для телефонов:
+  <h2>Для телефонов:</h2>
   <img src="Vintage_Food/images/phones.png" width="200"/>
 </p>
 
