@@ -19,14 +19,10 @@
 ### Скриншоты
 
 <p align="center">
-  <h2>Для компьютеров:</h2>
-  <img src="Vintage_Food/images/Computers.png" width="400"/>
-  
- <h2> Для планшетов:</h2>
-  <img src="Vintage_Food/images/tablets.png" width="300"/>
-  
-  <h2>Для телефонов:</h2>
-  <img src="Vintage_Food/images/phones.png" width="200"/>
+  <h2>Для компьютеров:                     Для планшетов:                       Для телефонов:</h2>
+   <img src="Vintage_Food/images/Computers.png" width="250"/>
+  <img src="Vintage_Food/images/tablets.png" width="250"/>
+  <img src="Vintage_Food/images/phones.png" width="250"/>
 </p>
 
 
