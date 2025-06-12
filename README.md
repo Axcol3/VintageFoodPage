@@ -19,8 +19,8 @@
 ### 📸 Скриншоты
 
 <div align="left">
-  <img src="Vintage_Food/images/Computers.png" width="300" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;" />
-  <img src="Vintage_Food/images/tablets.png" width="300" alt="Планшеты" style="vertical-align: top; margin-right: 10px;" />
+  <img src="Vintage_Food/images/Computers.png" width="400" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;" />
+  <img src="Vintage_Food/images/tablets.png" width="400" alt="Планшеты" style="vertical-align: top; margin-right: 10px;" />
   <img src="Vintage_Food/images/phones.png" width="300" alt="Телефоны" style="vertical-align: top;" />
 </div>
 
