@@ -21,7 +21,7 @@
 <div align="left">
 
   <img src="Vintage_Food/images/phones.png" width="200" alt="Телефоны" style="vertical-align: top; margin-right: 10px;" />
-    <img src="Vintage_Food/images/Computers.png" width="650" alt="Компьютеры" style="vertical-align: top; margin-right: 10px;"/>
+    <img src="Vintage_Food/images/Computers.png" width="625" alt="Компьютеры" style="vertical-align: top; margin-right: 30px;"/>
 </div>
 
 
